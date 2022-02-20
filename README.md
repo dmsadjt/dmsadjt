@@ -12,6 +12,7 @@ I am a student still learning about many things. I love creating something out o
  - JavaScript
  - Python
  - Laravel
+ - React
 
 
 
