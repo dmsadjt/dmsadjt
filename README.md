@@ -13,7 +13,7 @@ I am a student still learning about many things. I love creating something out o
 - C# for Unity
 
 ## I'm currently working on ..
--A website using Laravel's Framework and mySQL database
+- A website using Laravel's Framework and mySQL database
 
 <!--
 **dmsadjt/dmsadjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
