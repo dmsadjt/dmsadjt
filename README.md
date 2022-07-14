@@ -7,10 +7,10 @@ I am a student still learning about many things. I love creating something out o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsadjt&layout=compact)](https://github.com/yushi1007)
 
 ## 🌱 I’m currently learning ...
--PHP's Framework Laravel
--Javascript's Framework React and JQuery
--Lua's LOVE2D
--C# for Unity
+- PHP's Framework Laravel
+- Javascript's Framework React and JQuery
+- Lua's LOVE2D
+- C# for Unity
 
 ## I'm currently working on ..
 -A website using Laravel's Framework and mySQL database
