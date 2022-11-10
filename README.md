@@ -9,8 +9,7 @@ I am a student still learning about many things. I love creating something out o
 ## 🌱 I’m currently learning ...
 - PHP's Framework Laravel
 - Javascript's Framework React and JQuery
-- Lua's LOVE2D
-- C# for Unity
+- Kotlin for Android
 
 ## I'm currently working on ..
 - A website using Laravel's Framework, Twitter's Bootstrap and mySQL database
