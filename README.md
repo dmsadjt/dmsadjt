@@ -7,6 +7,9 @@ I am a student still learning about many things. I love creating something out o
 - Javascript's Framework React and JQuery
 - Kotlin for Android
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsadjt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsadjt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I'm currently working on ..
 - A website using Laravel's Framework, Twitter's Bootstrap and mySQL database
 
