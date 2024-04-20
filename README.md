@@ -12,7 +12,7 @@ I am a student still learning about many things. I love creating something out o
 
 ## I'm currently working on ..
 - A website using Laravel's Framework, Twitter's Bootstrap and mySQL database
-- An Android App using Kotlin
+- A wordpress web app
 
 <!--
 **dmsadjt/dmsadjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
