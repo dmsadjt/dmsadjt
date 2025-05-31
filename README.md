@@ -1,18 +1,19 @@
-### Hi there, I'm Dimas 👋
+# Hi there, I'm Dimas 👋
 
-I am a student still learning about many things. I love creating something out of code and seeing the works that people had made. Currently learning the basics of coding and trying to go deeper. Currently i have a big interest in Android and Web Development and trying to learn those two subjects at my own pace!
+I am a corporate worker that likes to create stuff and learning new things! I haven't delved too much into the world of open source contributions and helping others but I do want to use my free time to create and build new things! 
 
-## 🌱 I’m currently learning ...
-- PHP's Framework Laravel
-- Javascript's Framework React and JQuery
-- Kotlin for Android
+## My daily driver
+
+- PHP Native and with Laravel
+- Kotlin for Android Development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsadjt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsadjt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm currently working on ..
-- A website using Laravel's Framework, Twitter's Bootstrap and mySQL database
-- A wordpress web app
+- A website using Laravel's Framework, Twitter's Bootstrap and MySQL database
+- An android app using Kotlin's Jetpack and Firebase
+- A passion project using Go and React
 
 <!--
 **dmsadjt/dmsadjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
